@@ -9,7 +9,7 @@
         <div class="logo">
             <a href="index.php">
                 
-<h3>Shopping Portal</h3>
+<h3>FullGame</h3>
             </a>
         </div><!-- /.logo -->
     
@@ -36,7 +36,7 @@
             		 <!-- ============================================================= CONTACT TIMING============================================================= -->
 <div class="contact-timing">
 	<div class="module-heading">
-		<h4 class="module-title">opening time</h4>
+		<h4 class="module-title">Customer Services Operation</h4>
 	</div><!-- /.module-heading -->
 
 	<div class="module-body outer-top-xs">
@@ -70,7 +70,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>New Delhi, Delhi</p>
+                    <p>Tangerang, Banten</p>
                 </div>
             </li>
 
@@ -82,7 +82,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>(011) 000000000000<br>(011) 000000000000</p>
+                    <p>(021) 52673456<br>(021) 52673456</p>
                 </div>
             </li>
 
@@ -94,7 +94,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <span><a href="#">info@phpgurukul.com</a></span>
+                    <span><a href="#">info@fullgame.com</a></span>
                 </div>
             </li>
               
